@@ -45,6 +45,11 @@ a{
   border-radius: 40px;
   border:none;
 }
+.cv-btn:hover{
+  border: 1px solid #984BA5 ;
+  background: #984BA5;
+  transition: 1s;
+}
 i{
   color: black;
 }
@@ -122,4 +127,30 @@ i{
 .projects h1{
   text-align: center;
   margin-top: 20px;
+}
+.contact{
+  margin: 80px auto;
+  width: 80%;
+  background-image: linear-gradient(rgba(0,0,0, 0.7),rgba(0,0,0, 0.7)), url(images/software\ dev.png);
+  background-position: center;
+  background-size: cover;
+  border-radius: 12px;
+  text-align: center;
+  padding: 100px 0;
+}
+.contact-butn{
+  text-decoration: none;
+  border: 1px solid white;
+  color: white;
+  padding: 15px 40px;
+  font-size: 12px;
+  background: transparent;
+}
+.contact-butn:hover{
+  background-color: #984BA5;
+}
+.contact h1{
+  color: white;
+  margin-bottom: 40px;
+  padding: 0;
 }
