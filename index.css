@@ -130,8 +130,9 @@ i{
 }
 .skills h1{
   text-align: center;
-  font-family: 'Poppins', sans-serif;
-  font-size: 48px;
+  font-size: 34px;
+  font-family: 'Noto Serif', serif;
+  color: #362D5A;
 }
 .skills-c{
   width: 200px;
