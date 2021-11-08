@@ -1,9 +1,26 @@
 .home{
   background-image: url("images/code.jpg");
   background-position: center ;
+  background-size: cover;
+  color: white
+}
+.grace h1{
+  font-size: 64px;
+  position: relative;
+}
+.grace h2{
+  font-size: 36px;
+  font-family: 'Roboto', sans-serif;
+}
+.grace{
+  position: relative;
+  left: -100px;
 }
 a{
   color: white;
+  font-size: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
 }
 #nav-btn{
   background-color: #984BA5;
@@ -19,4 +36,14 @@ a{
 .home-body{
   display: flex;
   justify-content: space-around;
+}
+.btn{
+font-family:  'Poppins', sans-serif;
+background: rgba(196, 196, 196, 0.5);
+font-size: 24px;
+border-radius: 40px;
+border:none;
+}
+i{
+  color: black;
 }
