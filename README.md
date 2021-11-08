@@ -2,6 +2,8 @@
 
 ## Live Link
 
+https://gracemwende.github.io/myPortfolio/
+
 ## Project Design
 
 https://www.figma.com/file/Eb1609fqslnbTfaLH8NSy0/Untitled?node-id=0%3A1
