@@ -35,10 +35,10 @@ Just a landing page, additions will be done
 
 ## Technologies Used
 
-HTML
-CSS
-BOOTSRAP
-Figma
+- HTML
+- CSS
+- BOOTSRAP
+- FIGMA
 
 ## Support and contact details
 
