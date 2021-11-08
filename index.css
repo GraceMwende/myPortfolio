@@ -79,6 +79,9 @@ i{
 }
 .education, .job{
   background: rgba(0, 0, 0, 0.54);
+  position: relative;
+  top:80px;
+  left:80px;
 }
 .card-title{
   font-family: 'Noto Serif', serif;
@@ -153,4 +156,12 @@ i{
   color: white;
   margin-bottom: 40px;
   padding: 0;
+}
+#back-abt{
+    min-height: 80vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/about-me\ bg.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
 }
