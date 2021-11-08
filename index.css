@@ -213,3 +213,34 @@ i{
 .fa-heart-o{
   color:#f44336;
 }
+.reviews{
+  width: 80%;
+  height: 80vh;
+  margin: auto;
+  background-color: black;
+}
+.reviews h1{
+  text-align: center;
+  color: white;
+  font-family: 'Cormorant', serif;
+}
+.reviewing img{
+  width: 100px;
+  height: 100px;
+}
+.reviewing{
+  background-color: #ffffff;
+  border-radius: 5px;
+  margin-right:3%;
+  padding: 30px;
+  text-align: center; 
+}
+.stars i{
+  color: #E1651F;
+}
+.review-content p:nth-child(2){
+  font-family: 'Poppins', sans-serif;
+}
+.review-content h4{
+  font-family: 'Oleo Script Swash Caps', cursive;
+}
