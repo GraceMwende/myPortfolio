@@ -137,6 +137,9 @@ i{
   width: 200px;
   border: none;
 }
+.figma{
+  height: 35vh;
+}
 .btn{
  padding: 20px 60px;
  text-align: center;
