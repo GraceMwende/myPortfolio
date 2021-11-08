@@ -54,11 +54,11 @@ i{
 .about-text{
   text-align: center;
 }
-.about-text h1{
+.about-text h1, .projects h1{
   font-family: 'Noto Serif', serif;
   color: #362D5A;
 }
-.about-text hr{
+.about-text hr, .projects hr{
   width: 15%;  
   height: 2px;   
   background-color: #362D5A;
@@ -118,4 +118,8 @@ i{
  margin: auto;
  position: relative;
  left: 30%;
+}
+.projects h1{
+  text-align: center;
+  margin-top: 20px;
 }
