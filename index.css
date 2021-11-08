@@ -5,16 +5,17 @@
   color: white
 }
 .grace h1{
-  font-size: 64px;
+  font-size: 48px;
   position: relative;
 }
 .grace h2{
-  font-size: 36px;
+  font-size: 30px;
   font-family: 'Roboto', sans-serif;
 }
 .grace{
   position: relative;
   left: -100px;
+  top: 40px;
 }
 a{
   color: white;
@@ -31,7 +32,7 @@ a{
   font-family:  'Poppins', sans-serif;
   font-weight: 400;
   font-size: 30px;
-  margin: 20px;
+  margin: 40px;
 }
 .home-body{
   display: flex;
