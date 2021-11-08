@@ -39,12 +39,72 @@ a{
   justify-content: space-around;
 }
 .btn{
-font-family:  'Poppins', sans-serif;
-background: rgba(196, 196, 196, 0.5);
-font-size: 24px;
-border-radius: 40px;
-border:none;
+  font-family:  'Poppins', sans-serif;
+  background: rgba(196, 196, 196, 0.5);
+  font-size: 24px;
+  border-radius: 40px;
+  border:none;
 }
 i{
   color: black;
+}
+.about-me{
+  margin-top: 20px;
+}
+.about-text{
+  text-align: center;
+}
+.about-text h1{
+  font-family: 'Noto Serif', serif;
+  color: #362D5A;
+}
+.about-text hr{
+  width: 15%;  
+  height: 2px;   
+  background-color: #362D5A;
+  border-width: 4px;  
+  margin: auto  ;
+}
+.about-text p{
+  margin-top: 10px;
+  font-family: 'Cormorant', serif;
+  font-size: 28px;
+  width: 80%;
+  margin:auto;
+}
+.education, .job{
+  background: rgba(0, 0, 0, 0.54);
+}
+.card-title{
+  font-family: 'Noto Serif', serif;
+  font-weight: 700;
+  font-size: 36px;
+  color: white;
+}
+.card hr{
+  width: 50%;  
+  height: 2px;   
+  background-color: red;
+  border-width: 2px;  
+  position: relative;
+  left: -100px;
+}
+.card-text{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+.two{
+  color: black;
+}
+.skills{
+  width: 80%;
+  margin: auto;
+  margin-top: 40px;
+}
+.skills h1{
+  text-align: center;
+}
+.skills-c{
+  width: 200px;
+  border: none;
 }
