@@ -165,3 +165,17 @@ i{
     background-size: cover;
     position: relative;
 }
+/* footer */
+.footer{  
+  text-align: center;
+  padding: 25px 0;
+}
+.icons .fa{
+  color:#f44336;
+  margin: 0 15px;
+  cursor: pointer;
+  padding: 18px 0;
+}
+.fa-heart-o{
+  color:#f44336;
+}
