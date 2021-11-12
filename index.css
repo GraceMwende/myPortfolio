@@ -4,18 +4,10 @@
   background-size: cover;
   color: white
 }
-.title{
-  color: #4D28B7;
-  font-size: 64px;
-  font-family: 'Roboto', sans-serif;
-}
-.logo{
-  color: #ACAAFF;
-}
 .linking{
   position: relative;
   top:30px;
-  left:200px;
+  left:20%;
 }
 .grace h1{
   font-size: 48px;
@@ -60,7 +52,7 @@ a{
   border:none;
   float: right;
   position: relative;
-  top:-80px;
+  top:-25px;
 }
 ;cv-btn:hover{
   border: 1px solid #984BA5 ;
