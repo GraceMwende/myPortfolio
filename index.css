@@ -194,7 +194,9 @@ i{
 /* footer */
 .footer{  
   text-align: center;
-  padding: 25px 0;
+  background: #5F5F5E;
+  color: white;
+  font-size: 20px;
 }
 .icons .fa{
   color:#f44336;
