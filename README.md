@@ -10,7 +10,7 @@ https://www.figma.com/file/Eb1609fqslnbTfaLH8NSy0/Untitled?node-id=0%3A1
 
 ## Project picture
 
-<img src="images/project-screenshot.png" alt="MarineGEO circle logo" />
+<img src="images/design.png" alt="project design" />
 
 #### Application Description
 
